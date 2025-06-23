@@ -5,6 +5,10 @@ function org (){
 var a=20;
 console.log(a);
 
+ let b=50;
+console.log(b);
+ 
+
 let b=50;
 console.log(b);
 
