@@ -11,6 +11,9 @@ console.log(b);
 
 let b=50;
 console.log(b);
+ 
+ const c=60;
+console.log(c);
 
 const c=60;
 console.log(c);
